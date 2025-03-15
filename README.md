@@ -38,6 +38,11 @@ Pivot Tables are essential for summarizing data and creating the foundation of t
 2. In the PivotTable Fields pane:
    - Drag Company Size to the **Rows** section.
    - Drag Salary to the **Values** section and set it to show the **average salary**.
+# Screenshots Taken:
+   Salary Job Role: <img src="images/salbyrole.PNG" alt="Alt Text" Width="600" heigth="200">
+   Salary By State: <img src="images/countbystate.PNG" alt="Alt Text" Width="600" heigth="200">
+   Salary By Company Size <img src="images/salbyrolesize.PNG" alt="Alt Text" Width="600" heigth="200">
+   Salary By Sectors<img src="images/sectorsizeandsector.PNG" alt="Alt Text" Width="600" heigth="200">
 
 ---
 
@@ -62,7 +67,9 @@ Pivot Tables are essential for summarizing data and creating the foundation of t
 ### 5. **Sector with Min/Max Average Salary**
    - Create a Pivot Table showing **average salary by sector**.
    - Use **conditional formatting** to highlight the sectors with the **minimum** and **maximum average salary**.
-
+# Screenshots Taken:
+PIVOT Table: <img src="images/careermap.PNG" alt="Alt Text" Width="600" heigth="200">
+ADDITIONAL MAP AND SEARCH: <img src="images/map and search.PNG" alt="Alt Text" Width="600" heigth="200">
 ---
 
 ## Step 4: Add Slicers for Interactivity
