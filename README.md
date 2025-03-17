@@ -117,7 +117,7 @@ Slicers allow users to filter the data interactively.
  
 
 
-  # Screenshot of Results:
+# Screenshot of Results:
   
   <img src="images/fulldashboard.PNG" alt="Alt Text" Width="600" heigth="200">
 
