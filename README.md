@@ -39,21 +39,6 @@ Pivot Tables are essential for summarizing data and creating the foundation of t
    - Drag Company Size to the **Rows** section.
    - Drag Salary to the **Values** section and set it to show the **average salary**.
    - 
-# Screenshots Taken:
-   Salary Job Role: <img src="images/salbyrole.PNG" alt="Alt Text" Width="600" heigth="200">
-   
-   Salary By State: <img src="images/countbystate.PNG" alt="Alt Text" Width="600" heigth="200">
-   
-   Salary By Company Size <img src="images/salbyrolesize.PNG" alt="Alt Text" Width="600" heigth="200">
-   
-   Salary By Sectors<img src="images/sectorsizeandsector.PNG" alt="Alt Text" Width="600" heigth="200">
-
-
-
-
-
-
-
 
 ---
 
@@ -78,9 +63,10 @@ Pivot Tables are essential for summarizing data and creating the foundation of t
 ### 5. **Sector with Min/Max Average Salary**
    - Create a Pivot Table showing **average salary by sector**.
    - Use **conditional formatting** to highlight the sectors with the **minimum** and **maximum average salary**.
-# Screenshots Taken:
-PIVOT Table: <img src="images/careermap.PNG" alt="Alt Text" Width="600" heigth="200">
-ADDITIONAL MAP AND SEARCH: <img src="images/map and search.PNG" alt="Alt Text" Width="600" heigth="200">
+
+
+
+
 ---
 
 ## Step 4: Add Slicers for Interactivity
@@ -99,6 +85,8 @@ Slicers allow users to filter the data interactively.
    - Link each slicer to all Pivot Tables so that they control the entire dashboard's data.
 
 ---
+**Map and Search Bar Table:**
+
 
 ## Step 5: Finalize Design
 
@@ -109,16 +97,31 @@ Slicers allow users to filter the data interactively.
 ### 2. **Design the Layout**
    - Organize the Pivot Tables, charts, and slicers in a way that is easy to read and visually appealing.
    - Apply a **consistent color scheme** to improve the overall look and readability.
+# Screenshot of Pivot Tables and Slicers:
+
+   **Salary Job Role**: <img src="images/salbyrole.PNG" alt="Alt Text" Width="600" heigth="200">
+   
+   **Salary By State**: <img src="images/countbystate.PNG" alt="Alt Text" Width="600" heigth="200">
+   
+   **Salary By Company Size:** <img src="images/salbyrolesize.PNG" alt="Alt Text" Width="600" heigth="200">
+   
+   **Salary By Sectors:** <img src="images/sectorsizeandsector.PNG" alt="Alt Text" Width="600" heigth="200">
+
+# Screenshot of  Dashboard:
+<img src="images/pivottable.PNG" alt="Alt Text" Width="600" heigth="200">
+ 
+  # Map and Search Bar Table:
+<img src="images/careermap.PNG" alt="Alt Text" Width="600" heigth="200">
+<img src="images/map and search.PNG" alt="Alt Text" Width="600" heigth="200">
+
+ 
+
+
+  # Screenshot of Results:
+  
+  <img src="images/fulldashboard.PNG" alt="Alt Text" Width="600" heigth="200">
 
 ---
 
-## Step 6: Review and Save
-
-### 1. **Test Your Dashboard**
-   - Ensure the slicers are working properly, and the data is displayed correctly in each Pivot Table.
-   - Test the interactivity by adjusting the slicers and verifying that all related charts and tables update accordingly.
-
-### 2. **Save Your Work**
-   - Save your **Excel workbook** and make sure to back it up.
 
 ---
