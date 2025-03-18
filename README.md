@@ -1,4 +1,4 @@
-# Midterm Lab Task 3 - Creating PIVOT TABLE and DASHBOARD
+# Midterm Lab Task 3 - Creating Pivot Table and Dashboard
 
 This project provides a Data Science Dashboard to analyze job data related to salaries, roles, states, and company sizes. The dashboard includes PivotTables, charts, and interactive slicers for exploring and visualizing the data.
 
@@ -105,7 +105,7 @@ Slicers allow users to filter the data interactively.
    
    **Salary By Company Size:** <img src="images/salbyrolesize.PNG" alt="Alt Text" Width="600" heigth="200">
    
-   **Salary By Sectors:** <img src="images/sectorsizeandsector.PNG" alt="Alt Text" Width="600" heigth="200">
+   **Salary By Sector ans Sector Size:** <img src="images/sectorsizeandsector.PNG" alt="Alt Text" Width="600" heigth="200">
 
 # Screenshot of  Dashboard:
 <img src="images/pivottable.PNG" alt="Alt Text" Width="600" heigth="200">
